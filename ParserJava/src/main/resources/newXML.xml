@@ -1,0 +1,19 @@
+<recipe>
+<recipename>Ice Cream Sundae</recipename>
+<ingredlist>
+	<listitem item = "12">
+		<quantity>3</quantity>
+		<itemdescription>chocolate syrup or chocolate fudge</itemdescription>
+	</listitem>
+	<listitem>
+		<quantity>1</quantity>
+		<itemdescription> nuts</itemdescription>
+	</listitem>
+	<Element name="myName" />
+	<listitem>
+		<quantity>1</quantity>
+		<itemdescription>cherry</itemdescription>
+	</listitem>
+</ingredlist>
+<preptime>5 minutes</preptime>
+</recipe>
